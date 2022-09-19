@@ -14,7 +14,7 @@ if ($_SESSION['email'] == $row['email'] && $_SESSION['pass'] == $row['mat_khau']
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Quản Trị - Xuân Chinh Mobile</title>
+        <title>Quản Trị - HTNK Mobile</title>
         <link rel="shortcut icon" href="../images/faicon.jpg" type="image/x-icon">
 
 
