@@ -38,7 +38,7 @@ if ($_SESSION['email'] == $row['email'] && $_SESSION['pass'] == $row['mat_khau']
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="quantri.php"><span>ADMIN </span> quản trị</a>
+                    <a class="navbar-brand" href="quantri.php"><span>ADMIN </span> HTNK Mobile</a>
                     <ul class="user-menu">
                         <li class="dropdown pull-right">
 

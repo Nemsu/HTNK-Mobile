@@ -64,7 +64,7 @@ if (isset($_POST['submit'])) {
                         </div>
                         <div class="form-group">
                             <label>Giá sản phẩm</label>
-                            <input type="text" class="form-control" name="gia_sp" required="">
+                            <input type="number" class="form-control" name="gia_sp" required="">
                         </div>
 
                         <div class="form-group">

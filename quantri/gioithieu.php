@@ -25,7 +25,7 @@
                     </svg>
                 </div>
                 <div class="col-sm-9 col-lg-7 widget-right">
-                    <div class="large">21</div>
+                    <div class="large">0</div>
                     <div class="text-muted">Đơn hàng</div>
                 </div>
             </div>
@@ -40,7 +40,7 @@
                     </svg>
                 </div>
                 <div class="col-sm-9 col-lg-7 widget-right">
-                    <div class="large">97</div>
+                    <div class="large">0</div>
                     <div class="text-muted">Bình luận</div>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                     </svg>
                 </div>
                 <div class="col-sm-9 col-lg-7 widget-right">
-                    <div class="large">7</div>
+                    <div class="large">4</div>
                     <div class="text-muted">Thành viên</div>
                 </div>
             </div>
@@ -70,7 +70,7 @@
                     </svg>
                 </div>
                 <div class="col-sm-9 col-lg-7 widget-right">
-                    <div class="large">9.7k</div>
+                    <div class="large">0</div>
                     <div class="text-muted">Người xem</div>
                 </div>
             </div>
